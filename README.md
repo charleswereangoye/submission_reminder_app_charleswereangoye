@@ -1,3 +1,5 @@
+# PLEASE READ ME FIRST
+
 # Submission Reminder App
 
 In this project i am supposed to write a simple shell script that will help remind students about their pending assignment submissions.
@@ -21,7 +23,7 @@ In this project i am supposed to write a simple shell script that will help remi
 
 ---
 
-#How To Use
+# How To Use
 
 # 1 Open your terminal
 
@@ -64,6 +66,6 @@ feature/setup: For development work.
 
 main: Final version with these files:
 
-#Done...!
+# Done...!
 
 Finally, You can now use this script to track and remind students of their assignment submissions with ease!
