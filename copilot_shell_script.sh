@@ -3,7 +3,11 @@
 first_dir=$(find . -maxdepth 1 -type d -name "submission_reminder_*" | head -n 1)
 
 #ask user to enter the assignment name
-read -p "Please enter the assignment name: " new_assign
+echo "The following below are types of assignments"
+echo "-Shell Navigation"
+echo "-Git"
+echo "-Shell Basics"
+read -p "Please type in one of the assignment name to check which students have not submitted and to create a reminder: " new_assign
 
 #navigating to the right  directory for execution
 cd $first_dir 
