@@ -62,6 +62,11 @@ Chinemerem,Shell Navigation,not submitted
 Chiagoziem,Git,submitted
 Divine,Shell Navigation,not submitted
 Anissa,Shell Basics,submitted
+Charles,Git,not submitted
+Annie,Shell Basics,not submitted
+Eric,Shell Navigation,submitted
+Brian,Git,not submitted
+Claire,Shell Basics,submitted
 EOL
 
 # 4 config.env
