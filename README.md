@@ -18,7 +18,7 @@ In this project i am supposed to write a simple shell script that will help remi
 
 - create_environment.sh: This script file sets up everything you need to run the app.
 - copilot_shell_script.sh: This script file helps you change the assignment name in the app.
-- startup.sh: This scrript file runs the app to show the students who haven't submitted.
+- startup.sh: This script file runs the app to show the students who haven't submitted.
 - reminder.sh, functions.sh, config.env, and submissions.txt: These are files the app uses to work properly. They are created by create_environment.sh.
 
 ---
@@ -44,7 +44,7 @@ Navigate to the newly created folder and run startup.sh script file which will s
 
 # 4 Changing the assignment name (copilot_shell_script.sh)
 
-Naviaget to the parent directory and run copilot_shell_script.sh script file this will prompt you to enter new assignment name and it will show students who haven't submitted that assignment.
+Navigate to the parent directory and run copilot_shell_script.sh script file this will prompt you to enter new assignment name and it will show students who haven't submitted that assignment.
 
 ---
 
